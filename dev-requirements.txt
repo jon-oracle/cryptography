@@ -1,6 +1,9 @@
 clint
 coverage
 invoke
+iso8601
+pretend
+pytz
 requests
 tox >= 2.4.1
 twine
